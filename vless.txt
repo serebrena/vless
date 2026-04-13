@@ -1,7 +1,7 @@
 #profile-update-interval: 1
 #profile-title: Aeterna
-#profile-web-page-url:
-#support-url:
+#profile-web-page-url: https://t.me/aeternavp
+#support-url: https://t.me/aeternasup
 #announce: Aeterna VPN
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
