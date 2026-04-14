@@ -1,8 +1,8 @@
-#profile-update-interval: 1
+п»ї#profile-update-interval: 1
 #profile-title: Aeterna VPN
 #profile-web-page-url: https://t.me/aeternavp
 #support-url: https://t.me/aeternasup
-#announce: Адресов много, включайте любой работающий. Некоторые, возможно, умеют обходить белые списки. Проверяйте
+#announce: РђРґСЂРµСЃРѕРІ РјРЅРѕРіРѕ, РІРєР»СЋС‡Р°Р№С‚Рµ Р»СЋР±РѕР№ СЂР°Р±РѕС‚Р°СЋС‰РёР№. РќРµРєРѕС‚РѕСЂС‹Рµ, РІРѕР·РјРѕР¶РЅРѕ, СѓРјРµСЋС‚ РѕР±С…РѕРґРёС‚СЊ Р±РµР»С‹Рµ СЃРїРёСЃРєРё. РџСЂРѕРІРµСЂСЏР№С‚Рµ
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
 hysteria2://rstnnl:OdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&security=tls&sni=yespaintstudio.rav-kraski.ru#01.%20%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
