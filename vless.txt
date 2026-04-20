@@ -6,3 +6,5 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
 hysteria2://rstnnl:OdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&security=tls&sni=yespaintstudio.rav-kraski.ru#01.%20%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@92.53.90.173:52006?encryption=none&flow=xtls-rprx-vision&security=tls&allowInsecure=true&alpn=http/1.1&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20[71]%20%20MIFA
+vless://75807638-6f19-2328-ae08-38492ee85c88@92.53.90.173:52006?encryption=none&flow=xtls-rprx-vision&security=tls&allowInsecure=true&alpn=http/1.1&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20[70]%20%20MIFA
