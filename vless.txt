@@ -6,5 +6,3 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
 hysteria2://rstnnl:OdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&security=tls&sni=yespaintstudio.rav-kraski.ru#01.%20%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
-vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@fr.pink-world.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.pink-world.ru&fp=chrome&pbk=XoJMrCB2aP6YCHbW4vsCoDF2h_d8eGZs3u_UAddWBBA&sid=9ad0e48c54dc7c41&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20%20France%20%20[45]%20%20MIFA
-hysteria2://rstnnl:XmFNUbpdnnIy7df1YtfLyzVgzt8U9GUv@musicclips.videolinks.ru:8443?obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw&security=tls&sni=musicclips.videolinks.ru&allowInsecure=true#%F0%9F%87%BA%F0%9F%87%B8%20%20USA%20%20[174]%20%20MIFA
