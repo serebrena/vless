@@ -6,3 +6,6 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
 hysteria2://rstnnl:OdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&security=tls&sni=yespaintstudio.rav-kraski.ru#01.%20%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@88.216.214.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hcaptcha.com&fp=qq&pbk=OnoYzxXhIySTpU1f2LlkD-Js_nQ0YwGvfDyi9IsDcWw&sid=8ac90e6b63633977&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AA%20%20Sweden%20%20[143]%20%20MIFA
+vless://75807638-6f19-2328-ae08-38492ee85c88@5.182.5.119:52006?encryption=none&flow=xtls-rprx-vision&security=tls&allowInsecure=true&alpn=http/1.1&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20[69]%20%20MIFA
+vless://75807638-6f19-0bb8-ae08-38492ee85c88@5.182.5.119:52006?encryption=none&flow=xtls-rprx-vision&security=tls&allowInsecure=true&alpn=http/1.1&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20[110]%20%20MIFA
