@@ -6,3 +6,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
 hysteria2://rstnnl:OdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&security=tls&sni=yespaintstudio.rav-kraski.ru#01.%20%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+vless://1c27476c-8a78-4a5a-b250-0de0ae7766db@158.160.211.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=id.x5.ru&fp=qq&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Oyster%20Telecom%20%E2%80%94%20%237
