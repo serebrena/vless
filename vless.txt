@@ -6,4 +6,3 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=255556057600
 
 hysteria2://rstnnl:OdAee0iXQALGJNhMVDnhA79WZoyqMse6@yespaintstudio.rav-kraski.ru:2026?obfs-password=3s1TcxUAhVlRLnrdgxkBnjEtdk9QilsV&security=tls&sni=yespaintstudio.rav-kraski.ru#01.%20%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
-vless://4de9bd4f-8d80-4637-8bdb-9e987c8a79bc@146.103.114.12:59001?encryption=none&security=reality&sni=www.m.vk.ru&fp=chrome&pbk=alN88a4LJdVTW2JRU1jE-LYDAG2LhLEZoMSZRaCWWR4&sid=9629&packetEncoding=xudp#1091%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG:%20@YoutubeUnBlockRu
